@@ -7,5 +7,7 @@
 			"path": "../personal-app"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
 }
