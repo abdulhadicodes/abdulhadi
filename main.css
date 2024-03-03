@@ -14,3 +14,33 @@ a{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #DDF2FD;
 }
+
+.nav{
+    padding: 0;
+    margin: 0;
+    height:10px;
+    width: 100%;
+    background-color: aliceblue;
+}
+ul{
+   
+    top: 0;
+    text-align: center;
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    text-align: center;
+    display: block;
+    padding: 8px;
+    float: left;
+}
+li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 18px ;
+}
