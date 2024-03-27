@@ -4,6 +4,7 @@
     background-color: #111;
     color: #DDF2FD;
     font-size: 1.2rem; 
+
   }
 #divOne{
   width: 100%;
@@ -133,6 +134,7 @@ footer{
   margin: 20px;
   font-size: 1.5em ;
   transition: 0.5s;
+
 }
 .footernav ul li a{
     
